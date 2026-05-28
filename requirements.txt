@@ -1,3 +1,4 @@
 streamlit
 yfinance
-crewai
+pydantic==2.6.4
+crewai[google-genai]==0.28.8
